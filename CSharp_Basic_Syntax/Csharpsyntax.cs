@@ -1,8 +1,8 @@
 using System;
 class Csharpsyntax {
   public static void Main() {
-    const string correct_username = "Shoaib";
-    const string correct_password = "shoaib123";
+    const string correct_username = "Sarayu";
+    const string correct_password = "sarayu123";
     Console.WriteLine("Enter username : ");
     string username = Console.ReadLine();
     if(username == ""){
