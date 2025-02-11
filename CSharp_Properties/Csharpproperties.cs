@@ -11,7 +11,7 @@ public class Csharpproperties {
            if(value>0){
                age = value;
            }else{
-               throw new ArgumentException("age cannot be negative");
+               throw new ArgumentException("age can not be negative");
            }
        }
    }}
